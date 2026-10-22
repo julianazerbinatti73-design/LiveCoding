@@ -1,0 +1,35 @@
+
+{
+  "veiculos": [
+    {
+      "id": 1,
+      "placa": "ABC-1234",
+      "montadora": "Scania",
+      "modelo": "R450",
+      "status": "DISPONIVEL"
+    },
+    {
+      "id": 2,
+      "placa": "XYZ-9876",
+      "montadora": "Mercedes-Benz",
+      "modelo": "Actros",
+      "status": "EM_ROTA"
+    }
+  ],
+  "motoristas": [
+    {
+      "id": 1,
+      "nome": "Ana Souza",
+      "cnh": "CNH-DEMO-001"
+    },
+    {
+      "id": 2,
+      "nome": "Bruno Lima",
+      "cnh": "CNH-DEMO-002"
+    }
+  ],
+  "telemetria": {
+    "ultimaAtualizacao": null
+  }
+}
+
